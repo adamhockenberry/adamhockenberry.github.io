@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Adam J. Hockenberry"
   avatar           : "profile.png"
-  bio              : "This site is (obviously) a work in progress"
+  bio              : "Post-doctoral research scholar working in the <a style='color: black;' href='https://wilkelab.org/'>Wilke lab</a> at The University of Texas at Austin"
   location         : # Leaving this blank for now - AJH
-  employer         : "The University of Texas at Austin"
+  employer         : # "The University of Texas at Austin"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=W5qqC2wAAAAJ&hl=en"
   email            :
