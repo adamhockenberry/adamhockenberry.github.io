@@ -16,7 +16,8 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /files/Hockenberry_AdamCV_03_2019.pdf
+    #    url: /cv/
     
     #  - title: "Guide"
     #    url: /markdown/
