@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Adam J.Hockenberry"
+title                    : "Adam J. Hockenberry"
 title_separator          : "-"
 name                     : &name "Adam J. Hockenberry"
 description              : &description "Post-doctoral candidate in computational biology"
