@@ -4,7 +4,6 @@ title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
   - /about.html
 ---
 Welcome to my personal website. I am currently a post doctoral researcher in the lab of [Claus O. Wilke](https://wilkelab.org/) at The University of Texas at Austin. My research interests span a range of topics in computational and theoretical biology. As the current state would hopefully make obvious, **this website is very much a work in progress**.

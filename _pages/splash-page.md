@@ -1,8 +1,12 @@
 ---
 title: "Splash Page"
 layout: splash
+title: "Homepage-y"
+excerpt: "Homepage-y"
+author_profile: true
 permalink: /
-date: 2016-03-23T11:48:41-04:00
+redirect_from: 
+  - /about.html
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
