@@ -1,7 +1,7 @@
 ---
 title: "Splash Page"
 layout: splash
-title: "Homepage-y"
+title: "Welcome!"
 # excerpt: "Homepage-y"
 author_profile: true
 permalink: /
