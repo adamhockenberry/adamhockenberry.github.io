@@ -12,7 +12,7 @@ header:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit that should be deleted maybe: [**Unsplash**](https://unsplash.com)"
-excerpt: "Harumph<br/> chop."
+excerpt: "Harumph<br/><br/><br/>chap."
 intro: 
   - excerpt: 'This webpage is a work in progress. Some of the above links work, but will get better over the coming weeks as I work through a thorough re-factoring of my site. Stay tuned!'
 feature_row:
