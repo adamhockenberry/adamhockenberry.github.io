@@ -2,7 +2,6 @@
 title: "Splash Page"
 layout: splash
 title: "Welcome!"
-excerpt: "This is my homepage"
 author_profile: true
 permalink: /
 header:
@@ -13,7 +12,7 @@ header:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit that should be deleted maybe: [**Unsplash**](https://unsplash.com)"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+excerpt: "Bacon                                                                                                                                chop."
 intro: 
   - excerpt: 'This webpage is a work in progress. Some of the above links work, but will get better over the coming weeks as I work through a thorough re-factoring of my site. Stay tuned!'
 feature_row:
