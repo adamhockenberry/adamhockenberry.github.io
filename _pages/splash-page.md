@@ -10,7 +10,7 @@ redirect_from:
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_image: /images/ex_research.tiff
   actions:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
