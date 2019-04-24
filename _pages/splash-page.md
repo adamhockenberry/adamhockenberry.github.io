@@ -5,8 +5,6 @@ title: "Welcome!"
 # excerpt: "Homepage-y"
 author_profile: true
 permalink: /
-redirect_from: 
-  - /about.html
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -14,12 +12,12 @@ header:
   actions:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit that should be deleted: [**Unsplash**](https://unsplash.com)"
+  caption: "Photo credit that should be deleted maybe: [**Unsplash**](https://unsplash.com)"
 # excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 intro: 
   - excerpt: 'This webpage is a work in progress. Some of the above links work, but will get better over the coming weeks as I work through a thorough re-factoring of my site. Stay tuned!'
 feature_row:
-  - image_path: /images/ex_research.jpg
+  - image_path: /assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1, ideally"
     title: "Placeholder 1"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
