@@ -2,7 +2,7 @@
 title: "Splash Page"
 layout: splash
 title: "Welcome!"
-# excerpt: "Homepage-y"
+excerpt: "This is my homepage"
 author_profile: true
 permalink: /
 header:
