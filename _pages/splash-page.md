@@ -10,7 +10,7 @@ redirect_from:
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: images/ex_research.jpg
+  overlay_image: /images/ex_research.jpg
   actions:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
@@ -19,8 +19,8 @@ header:
 intro: 
   - excerpt: 'This webpage is a work in progress. Some of the above links work, but will get better over the coming weeks as I work through a thorough re-factoring of my site. Stay tuned!'
 feature_row:
-  - image_path: images/ex_research.jpg
-    alt: "placeholder image 1"
+  - image_path: /images/ex_research.jpg
+    alt: "placeholder image 1, ideally"
     title: "Placeholder 1"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
