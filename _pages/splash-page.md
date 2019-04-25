@@ -7,7 +7,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: ../images/ex_research.jpg
+  overlay_image: ../images/splash-headline.jpg
   actions:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
