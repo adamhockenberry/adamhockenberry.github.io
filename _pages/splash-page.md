@@ -1,7 +1,7 @@
 ---
 title: "Splash Page"
 layout: splash
-title: "Welcome!"
+title: "<br/>"
 author_profile: true
 permalink: /
 header:
@@ -12,7 +12,7 @@ header:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
 #  caption: "Photo credit that should be deleted maybe: [**Unsplash**](https://unsplash.com)"
-excerpt: "<br/><br/><br/>"
+excerpt: "<br/><br/><br/><br/><br/><br/>"
 intro: 
   - excerpt: 'This webpage is a work in progress. Some of the above links work, but will get better over the coming weeks as I work through a thorough re-factoring of my site. Stay tuned!'
 #feature_row:
