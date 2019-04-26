@@ -4,8 +4,8 @@ title: "About me"
 excerpt: "About me"
 author_profile: true
 ---
-I am currently a post doctoral researcher in the lab of [Claus O. Wilke](https://wilkelab.org/) at The University of Texas at Austin. 
-Previously, I completed my PhD at Northwestern University where I was joinly advised in the labs of [Luis A.N. Amaral](https://amaral.northwestern.edu/) and [Michael C. Jewett](http://jewettlab.northwestern.edu/). 
+I am currently a post doctoral researcher in the lab of [Claus O. Wilke](https://wilkelab.org/){:target="_blank"} at The University of Texas at Austin. 
+Previously, I completed my PhD at Northwestern University where I was joinly advised in the labs of [Luis A.N. Amaral](https://amaral.northwestern.edu/){:target="_blank"} and [Michael C. Jewett](http://jewettlab.northwestern.edu/){:target="_blank"}. 
 My research interests span a range of topics in computational and theoretical biology. 
 
 
