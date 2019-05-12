@@ -6,7 +6,7 @@ author_profile: true
 permalink: /
 header:
   overlay_color: "#000"
-  overlay_filter: "0.3"
+  overlay_filter: "0.0"
   overlay_image: ../images/splash-headline.jpg
   actions:
     - label: "Download"
