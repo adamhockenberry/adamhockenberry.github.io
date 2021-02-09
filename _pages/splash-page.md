@@ -14,7 +14,7 @@ header:
 #  caption: "Photo credit that should be deleted maybe: [**Unsplash**](https://unsplash.com)"
 excerpt: "<br/><br/><br/><br/><br/><br/>"
 intro: 
-  - excerpt: 'This webpage is a work in progress. Some of the above links work, but will get better over the coming weeks as I work through a thorough re-factoring of my site. Stay tuned!'
+#  - excerpt: 'This webpage is a work in progress. Some of the above links work, but will get better over the coming weeks as I work through a thorough re-factoring of my site. Stay tuned!'
 #feature_row:
 #  - image_path: /assets/images/unsplash-gallery-image-1-th.jpg
 #    alt: "placeholder image 1, ideally"
