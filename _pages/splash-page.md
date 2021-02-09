@@ -14,7 +14,7 @@ header:
 #  caption: "Photo credit that should be deleted maybe: [**Unsplash**](https://unsplash.com)"
 excerpt: "<br/><br/><br/><br/><br/><br/>"
 intro: 
-  - excerpt: 'Welcome to the personal webpage of Adam John Hockenberry! I am a generally trained data scientist, but have focused much of my academic career on challenges in big-data biology. Below I hightlight some specific areas of research, but feel free to check out my publications for more details (and reach out if you have any questions!)'
+  - excerpt: ''
 #feature_row:
 #  - image_path: /assets/images/unsplash-gallery-image-1-th.jpg
 #    alt: "placeholder image 1, ideally"
@@ -43,7 +43,7 @@ feature_row3:
   - image_path: ../images/deeplearning.png
     alt: "placeholder image 2"
     title: "Applications of machine and deep learning to biology"
-    excerpt: 'Deep neural networks have revolutionized numerous fields in recent years, but biological applications of these approaches are still in their infancy. Two of the dominant methods that have spurred these advances are Convolutional Neural Networks (particularly for image data) and Recurrent Neural Networks (for text-based data). Microbial genomes can be defined by a string of letters, but the molecules that these letters ultimately create are well-described by pairing-matrices. Both CNN and RNN-based networks therefore have tremendous potential for annotating genomes, and transformer architectures may provide still further advances in this area. My research is focused on how to best apply these tools and to exploit the dominant architectures to make biological advances. In particular, biological data is governed by known physical limits that place constraints on gene predictions but this physical knowledge can be codified and harnessed by deep learning approaches to drastically improve our ability to annotate genomes **de novo**.'
+    excerpt: 'Deep neural networks have revolutionized numerous fields in recent years, but biological applications of these approaches are still in their infancy. Two of the dominant methods that have spurred these advances are Convolutional Neural Networks (particularly for image data) and Recurrent Neural Networks (for text-based data). Microbial genomes can be defined by a string of letters, but the molecules that these letters ultimately create are well-described by pairing-matrices. Both CNN and RNN-based networks therefore have tremendous potential for annotating genomes, and transformer architectures may provide still further advances in this area. My research is focused on how to best apply these tools and to exploit the dominant architectures to make biological advances. In particular, biological data is governed by known physical limits that place constraints on gene predictions but this physical knowledge can be codified and harnessed by deep learning approaches to drastically improve our ability to annotate genomes *de novo*.'
 ##    url: "#test-link"
 ##    btn_label: "Read More"
 ##    btn_class: "btn--primary"
@@ -60,7 +60,7 @@ feature_row5:
   - image_path: ../images/why.png
     alt: "Structure decomposition"
     title: "The importance of why"
-    excerpt: 'While my research has taken a variety of different directions over my career, the common thread that unites these disparate topics is a drive to uncover *why?*. Data by itself can only tell part of a story, but contextualizing that data within what is currently known and speculating what might come next are critical to scientific advancement. Further, putting these thoughts into general and accessible language for the public to be able to easily digest is critical for encouraging diverse voices to carry on the torch to the next set of interesting questions. Throughout my career I have prioritized scientific communication through written works and oral presentations, as well as mentorship of the next generation of curious scientists.'
+    excerpt: 'While my research has taken a variety of different directions over my career, the common thread that unites these disparate topics is a drive to uncover **why?**. Data by itself can only tell part of a story, but contextualizing that data within what is currently known and speculating what might come next are critical to scientific advancement. Further, putting these thoughts into general and accessible language for the public to be able to easily digest is critical for encouraging diverse voices to carry on the torch to the next set of interesting questions. Throughout my career I have prioritized scientific communication through written works and oral presentations, as well as mentorship of the next generation of curious scientists.'
 #    url: "#test-link"
 #    btn_label: "Read More"
 #    btn_class: "btn--primary"
