@@ -36,14 +36,14 @@ feature_row2:
     alt: "Bacteriophage lifestyle and SD selection"
     title: "Protein structure and translation"
     excerpt: 'Beginning with my graduate school work, and continuing on through my post-doctoral studies I have focused on characterizing the language of microbial genomes. In particular, my research has looked at how codon usage biases (akin to synonyms in spoken language) and usage of the Shine-Dalgarno sequence (a form of punctuation mark that often defines the beginning of genes) vary within and between the genomes of bacteria and viruses. Perhaps most importantly, my work has looked at what these features can tell us about the life-history of individual species and how they can be leveraged to engineer genomes for synthetic biology applications.'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-#feature_row3:
-#  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-#    alt: "placeholder image 2"
-#    title: "Cellular growth"
-#    excerpt: 'Bacteria come in all shapes and sizes, and different species have dramatically different capacities for growth. Under the most idealized conditions that researchers have yet been able to imagine, some species are capable of doubling their population over time-scales spanning days and weeks. By contrast, other species are capable of rapid growth with population doubling times in as little as 10 minutes. My work is currently surveying the overall landscape of this growth rate variation and looking for how this important feature of growth capacity is encoded within the genomes of individual species, and conversely how growth variation imposes selection on those genomes.'
+#    url: "#test-link"
+#    btn_label: "Read More"
+#    btn_class: "btn--primary"
+feature_row3:
+  - image_path: ../images/deeplearning.png
+    alt: "placeholder image 2"
+    title: "Applications of machine and deep learning to biology"
+    excerpt: 'Deep neural networks have revolutionized numerous fields in recent years, but biological applications of these approaches are still in their infancy. Two of the dominant methods that have spurred these advances are Convolutional Neural Networks (particularly for image data) and Recurrent Neural Networks (for text-based data). Microbial genomes can be defined by a string of letters, but the molecules that these letters ultimately create are well-described by pairing-matrices. Both CNN and RNN-based networks therefore have tremendous potential for annotating genomes, and transformer architectures may provide still further advances in this area. My research is focused on how to best apply these tools and to exploit the dominant architectures to make biological advances. In particular, biological data is governed by known physical limits that place constraints on gene predictions but this physical knowledge can be codified and harnessed by deep learning approaches to drastically improve our ability to annotate genomes **de novo**.'
 ##    url: "#test-link"
 ##    btn_label: "Read More"
 ##    btn_class: "btn--primary"
