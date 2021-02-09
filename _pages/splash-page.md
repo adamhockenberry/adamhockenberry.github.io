@@ -47,23 +47,23 @@ feature_row2:
 ##    url: "#test-link"
 ##    btn_label: "Read More"
 ##    btn_class: "btn--primary"
-#feature_row4:
-#  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-#    alt: "placeholder image 2"
-#    title: "Biological data science"
-#    excerpt: 'One of the most exciting aspects of being a data scientist working in biology is trying to discern how phylogenetic structure inhibits our ability to make statistical inference, and ideally how to overcome this obstacle. Two siblings are more closely related to one-another than any two random humans, two humans are more closely related to one-another than either is to chimpanzees, and a human and a chimp are much more closely related to one-another than either is to a sea anemone. This lack of independence in data points presents tremendous obstacles to statistical inference, as nearly all off-the-shelf statistical models make the iid assumption (independent and identically distributed). Further, sampling of individuals and species is far-from uniform. We know the genome sequence of more sars-cov-2 viruses than all other viruses combined. Working through these challenges and developing statistical tests and frameworks to account for this feature is an active and on-going area of my research, particularly as it pertains to machine and deep learning models.'
-##    url: "#test-link"
-##    btn_label: "Read More"
-##    btn_class: "btn--primary"
+feature_row4:
+  - image_path: ../images/phylogenetics.png
+    alt: "growth phylogeny"
+    title: "Biological data science"
+    excerpt: 'One of the most exciting aspects of being a data scientist working in biology is trying to discern how phylogenetic structure inhibits our ability to make statistical inference, and ideally how to overcome this obstacle. Two siblings are more closely related to one-another than any two random humans, two humans are more closely related to one-another than either is to chimpanzees, and a human and a chimp are much more closely related to one-another than either is to a sea anemone. This lack of independence in data points presents tremendous obstacles to statistical inference, as nearly all off-the-shelf statistical models make the iid assumption (independent and identically distributed). Further, sampling of individuals and species is far-from uniform. We know the genome sequence of more sars-cov-2 viruses than all other viruses combined. Working through these challenges and developing statistical tests and frameworks to account for this feature is an active and on-going area of my research, particularly as it pertains to machine and deep learning models.'
+#    url: "#test-link"
+#    btn_label: "Read More"
+#    btn_class: "btn--primary"
 #
-#feature_row5:
-#  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-#    alt: "placeholder image 2"
-#    title: "The importance of why"
-#    excerpt: 'While my research has taken a variety of different directions over my career, the common thread that unites this disparate topics is a drive to uncover *why?*. Data by itself can only tell part of a story, but contextualizing that data within what is currently known and speculating what might come next are critical to scientific advancement. Further, putting these thoughts into general and accessible language for the public to be able to easily digest is critical for encouraging diverse voices to carry on the torch to the next set of interesting questions.'
-##    url: "#test-link"
-##    btn_label: "Read More"
-##    btn_class: "btn--primary"
+feature_row5:
+  - image_path: ../images/why.png
+    alt: "Structure decomposition"
+    title: "The importance of why"
+    excerpt: 'While my research has taken a variety of different directions over my career, the common thread that unites these disparate topics is a drive to uncover *why?*. Data by itself can only tell part of a story, but contextualizing that data within what is currently known and speculating what might come next are critical to scientific advancement. Further, putting these thoughts into general and accessible language for the public to be able to easily digest is critical for encouraging diverse voices to carry on the torch to the next set of interesting questions. Throughout my career I have prioritized scientific communication through written works and oral presentations, as well as mentorship of the next generation of curious scientists.'
+#    url: "#test-link"
+#    btn_label: "Read More"
+#    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
