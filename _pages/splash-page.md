@@ -14,7 +14,7 @@ header:
 #  caption: "Photo credit that should be deleted maybe: [**Unsplash**](https://unsplash.com)"
 excerpt: "<br/><br/><br/><br/><br/><br/>"
 intro: 
-  - excerpt: 'Welcome to the personal webpage of Adam John Hockenberry! I'm a generally trained data scientist, but have focused much of my academic career on challenges in big-data biology. Below I hightlight some specific areas of research, but feel free to check out my publications for more details (and reach out if you have any questions!)'
+  - excerpt: 'Welcome to the personal webpage of Adam John Hockenberry! I am a generally trained data scientist, but have focused much of my academic career on challenges in big-data biology. Below I hightlight some specific areas of research, but feel free to check out my publications for more details (and reach out if you have any questions!)'
 #feature_row:
 #  - image_path: /assets/images/unsplash-gallery-image-1-th.jpg
 #    alt: "placeholder image 1, ideally"
