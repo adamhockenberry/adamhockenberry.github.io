@@ -32,8 +32,8 @@ intro:
 #    title: "Biological data science"
 #    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
+  - image_path: /images/phage_scatter.png
+    alt: "Bacteriophage lifestyle and SD selection"
     title: "Protein structure and translation"
     excerpt: 'Beginning with my graduate school work, and continuing on through my post-doctoral studies I have focused on characterizing the language of microbial genomes. In particular, my research has looked at how codon usage biases (akin to synonyms in spoken language) and usage of the Shine-Dalgarno sequence (a form of punctuation mark that often defines the beginning of genes) vary within and between the genomes of bacteria and viruses. Perhaps most importantly, my work has looked at what these features can tell us about the life-history of individual species and how they can be leveraged to engineer genomes for synthetic biology applications.'
 #    url: "#test-link"
